@@ -13,6 +13,7 @@ It is a long established fact that a reader will be distracted by the readable c
 *   Grace Hopper
 *   Charles Babbage
 *   Alan Turing
+*   Ada Lovelace
 
 ## Contact
 
